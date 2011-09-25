@@ -16,7 +16,7 @@ _organize={
     ,'src':       'php,c,py,js,css,fla,lsp,erl,sh,hs,scm,d,go,pl,avs,ahk,as,fla,cpp,bash,hrl,h,java,m,ml'
     ,'src/dat':   'log,sql,cnf,conf,patch,diff,ini,xml,cvs,cfg'
     ,'other':     '*'
-    ,'other/bt':   'torrent'
+    ,'../Dropbox/torrents':   'torrent'
     ,'dir':       '/'
     }
 # conditions where sorting is avoided
